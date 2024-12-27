@@ -14,7 +14,7 @@
 
 <p align="center">A powerful & easy to use timeline package for Flutter! 🚀</p>
 
-> ***Caveat***: This package is an early stage. Not enough testing has been done to guarantee stability. Some APIs may change.
+> ***Caveat***: This package is an early stage. Not enough testing has been done to guarantee stability. Some APIs may change. My changes arent tested.
 
 # Examples
 
